@@ -1,0 +1,51 @@
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Ice shard">
+<g id="crystals">
+<path id="Vector" d="M69 162L39 86L48 39L83 72L92 153L69 162Z" fill="url(#paint0_linear_2_372)" stroke-width="2" stroke="#9EEFFC"/>
+<path id="Vector_2" d="M48 39L63 103L69 162L39 86L48 39Z" fill="#C8FBFF"/>
+<path id="Vector_3" d="M63 103L83 72L92 153L69 162L63 103Z" fill="#418FB8"/>
+<path id="Vector_4" d="M116 164L122 90L164 55L174 110L147 171L116 164Z" fill="url(#paint1_linear_2_372)" stroke-width="2" stroke="#9EEFFC"/>
+<path id="Vector_5" d="M164 55L147 119L116 164L122 90L164 55Z" fill="#D2FCFF"/>
+<path id="Vector_6" d="M147 119L174 110L147 171L116 164L147 119Z" fill="#3C8FB5"/>
+<path id="Vector_7" d="M74 155L71 71L100 13L132 78L126 163L101 185L74 155Z" fill="url(#paint2_linear_2_372)" stroke-width="2" stroke="#DBFFFF"/>
+<path id="Vector_8" d="M100 13L101 95L74 155L71 71L100 13Z" fill="#D8FFFF"/>
+<path id="Vector_9" d="M100 13L132 78L101 95L100 13Z" fill="#9CF0FB"/>
+<path id="Vector_10" d="M101 95L126 163L101 185L74 155L101 95Z" fill="#488EB4"/>
+<path id="Vector_11" d="M101 95L132 78L126 163L101 95Z" fill="#5FBCD6"/>
+<path id="Vector_12" d="M80 75L95 35M53 67L59 87M153 81L143 102" stroke-width="3" stroke-linecap="round" stroke="white"/>
+</g>
+<g id="core">
+<path id="Vector_13" d="M101 184C126.957 184 148 164.301 148 140C148 115.699 126.957 96 101 96C75.0426 96 54 115.699 54 140C54 164.301 75.0426 184 101 184Z" fill="url(#paint3_radial_2_372)"/>
+<path id="Vector_14" d="M101 112L117 136L109 158L93 161L84 139L101 112Z" fill="url(#paint4_linear_2_372)" stroke-width="2" stroke="#FF9B9E"/>
+<path id="Vector_15" d="M101 112V142L84 139L101 112Z" fill="#FFD6C8"/>
+<path id="Vector_16" d="M101 142L109 158L93 161L101 142Z" fill="#FF5266"/>
+<path id="Vector_17" d="M87 143L72 138L65 123M113 145L131 143L141 128" stroke-width="2" stroke="#FF6A7B"/>
+</g>
+</g>
+<defs>
+<linearGradient id="paint0_linear_2_372" x1="39" y1="39" x2="123.218" y2="84.3611" gradientUnits="userSpaceOnUse">
+<stop stop-color="#F0FFFF"/>
+<stop offset="0.45" stop-color="#8FECFA"/>
+<stop offset="1" stop-color="#226B9C"/>
+</linearGradient>
+<linearGradient id="paint1_linear_2_372" x1="116" y1="55" x2="201.501" y2="108.438" gradientUnits="userSpaceOnUse">
+<stop stop-color="#F0FFFF"/>
+<stop offset="0.45" stop-color="#8FECFA"/>
+<stop offset="1" stop-color="#226B9C"/>
+</linearGradient>
+<linearGradient id="paint2_linear_2_372" x1="71" y1="13" x2="175.511" y2="59.3311" gradientUnits="userSpaceOnUse">
+<stop stop-color="#F0FFFF"/>
+<stop offset="0.45" stop-color="#8FECFA"/>
+<stop offset="1" stop-color="#226B9C"/>
+</linearGradient>
+<radialGradient id="paint3_radial_2_372" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(101 140) scale(47 44)">
+<stop stop-color="#FF374E" stop-opacity="0.8"/>
+<stop offset="1" stop-color="#FF314D" stop-opacity="0"/>
+</radialGradient>
+<linearGradient id="paint4_linear_2_372" x1="84" y1="112" x2="84" y2="161" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FFD0C4"/>
+<stop offset="0.35" stop-color="#FF5B63"/>
+<stop offset="1" stop-color="#BE2549"/>
+</linearGradient>
+</defs>
+</svg>

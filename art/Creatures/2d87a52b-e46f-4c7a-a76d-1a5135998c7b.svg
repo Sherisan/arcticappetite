@@ -1,0 +1,41 @@
+<svg width="480" height="240" viewBox="0 0 480 240" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Beluga">
+<g id="tail">
+<g id="tail artwork">
+<path id="Vector" d="M129 131C101.667 111.667 76.6667 96.3333 54 85C50 101.667 58.6667 117.667 80 133L43 151C58.3333 165 82.3333 164.667 115 150H139L129 131Z" fill="url(#paint0_linear_2_187)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke="#81B2C8"/>
+</g>
+</g>
+<g id="body">
+<path id="Vector_2" d="M106 134C153 112 223 95 284 103C296 76 322 62 345 67C364.333 71 374 85.3333 374 110L403 117C409.667 128.333 407.333 137.333 396 144L367 149C351 164.333 322.333 172.667 281 174C219 174.667 161.333 166.667 108 150L106 134Z" fill="url(#paint1_linear_2_187)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke="#81B2C8"/>
+<path id="Vector_3" d="M128 148C186.667 155.333 238.333 156.667 283 152C325 151.333 354.667 145 372 133C368.667 151 349 162.333 313 167C242.333 173 180.667 166.667 128 148Z" fill="#A9D6E6"/>
+<path id="Vector_4" d="M145 128C189.667 112.667 234.333 106.667 279 110M302 94C313.333 76.6667 326.667 71.3333 342 78" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" stroke="white"/>
+<path id="Vector_5" d="M358 119C362.418 119 366 115.418 366 111C366 106.582 362.418 103 358 103C353.582 103 350 106.582 350 111C350 115.418 353.582 119 358 119Z" fill="#D4F8FF"/>
+<path id="Vector_6" d="M359 116C361.761 116 364 113.761 364 111C364 108.239 361.761 106 359 106C356.239 106 354 108.239 354 111C354 113.761 356.239 116 359 116Z" fill="#061526"/>
+<path id="Vector_7" d="M361 110.8C361.994 110.8 362.8 109.994 362.8 109C362.8 108.006 361.994 107.2 361 107.2C360.006 107.2 359.2 108.006 359.2 109C359.2 109.994 360.006 110.8 361 110.8Z" fill="white"/>
+<path id="Vector_8" d="M394 124C395.657 124 397 123.105 397 122C397 120.895 395.657 120 394 120C392.343 120 391 120.895 391 122C391 123.105 392.343 124 394 124Z" fill="#517E94"/>
+<path id="Vector_9" d="M373 139C383 143 392.667 141.333 402 134" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke="#548AA3"/>
+</g>
+<g id="flipper">
+<g id="flipper artwork">
+<path id="Vector_10" d="M281 145C287.667 159.667 301 174 321 188C307 198 289 194 267 176C259 167.333 256.667 158.333 260 149L281 145Z" fill="url(#paint2_linear_2_187)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke="#81B2C8"/>
+</g>
+</g>
+</g>
+<defs>
+<linearGradient id="paint0_linear_2_187" x1="71.8" y1="85" x2="84.0889" y2="162.354" gradientUnits="userSpaceOnUse">
+<stop stop-color="white"/>
+<stop offset="0.45" stop-color="#DCF5FF"/>
+<stop offset="1" stop-color="#7AB6D4"/>
+</linearGradient>
+<linearGradient id="paint1_linear_2_187" x1="196.211" y1="65.999" x2="204.244" y2="177.783" gradientUnits="userSpaceOnUse">
+<stop stop-color="white"/>
+<stop offset="0.45" stop-color="#DCF5FF"/>
+<stop offset="1" stop-color="#7AB6D4"/>
+</linearGradient>
+<linearGradient id="paint2_linear_2_187" x1="277.271" y1="145" x2="284.874" y2="194.114" gradientUnits="userSpaceOnUse">
+<stop stop-color="white"/>
+<stop offset="0.45" stop-color="#DCF5FF"/>
+<stop offset="1" stop-color="#7AB6D4"/>
+</linearGradient>
+</defs>
+</svg>

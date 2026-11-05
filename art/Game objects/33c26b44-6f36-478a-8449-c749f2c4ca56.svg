@@ -1,0 +1,49 @@
+<svg width="240" height="160" viewBox="0 0 240 160" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Shatter">
+<g id="fragments">
+<g id="Group">
+<path id="Vector" d="M27 70L61 56L52 91L30 97L27 70Z" fill="url(#paint0_linear_2_392)" stroke-width="1.5" stroke-linejoin="round" stroke="#AFEFFA"/>
+<path id="Vector_2" d="M78 34L100 17L108 58L91 70L78 34Z" fill="url(#paint1_linear_2_392)" stroke-width="1.5" stroke-linejoin="round" stroke="#AFEFFA"/>
+<path id="Vector_3" d="M119 85L154 69L170 96L147 124L119 112V85Z" fill="url(#paint2_linear_2_392)" stroke-width="1.5" stroke-linejoin="round" stroke="#AFEFFA"/>
+<path id="Vector_4" d="M180 46L205 36L216 66L197 79L180 46Z" fill="url(#paint3_linear_2_392)" stroke-width="1.5" stroke-linejoin="round" stroke="#AFEFFA"/>
+<path id="Vector_5" d="M65 115L87 100L102 126L81 137L65 115Z" fill="url(#paint4_linear_2_392)" stroke-width="1.5" stroke-linejoin="round" stroke="#AFEFFA"/>
+<path id="Vector_6" d="M173 137L188 108L209 122L199 142L173 137Z" fill="url(#paint5_linear_2_392)" stroke-width="1.5" stroke-linejoin="round" stroke="#AFEFFA"/>
+<path id="Vector_7" d="M124 31L140 25L137 48L124 31Z" fill="#C5F8FF" stroke-width="1.5" stroke-linejoin="round" stroke="#AFEFFA"/>
+<path id="Vector_8" d="M14 125L28 111L35 133L14 125Z" fill="#86D4EA" stroke-width="1.5" stroke-linejoin="round" stroke="#AFEFFA"/>
+<path id="Vector_9" d="M219 97L233 89L229 108L219 97Z" fill="#D1FCFF" stroke-width="1.5" stroke-linejoin="round" stroke="#AFEFFA"/>
+<path id="Vector_10" d="M156 15L163 25L150 31L156 15Z" fill="#83D6EB" stroke-width="1.5" stroke-linejoin="round" stroke="#AFEFFA"/>
+</g>
+<path id="Vector_11" d="M27 70L46 77L61 56L52 91L46 77L30 97L27 70Z" fill="#C8F9FF"/>
+<path id="Vector_12" d="M100 17L95 48L78 34L91 70L95 48L108 58L100 17Z" fill="#DAFFFF"/>
+<path id="Vector_13" d="M119 85L145 96L154 69L170 96L147 124L145 96L119 112V85Z" fill="#9CE7F4"/>
+<path id="Vector_14" d="M180 46L197 59L205 36L197 79L180 46Z" fill="#E0FFFF"/>
+<path id="Vector_15" d="M87 100L83 121L65 115L81 137L87 100Z" fill="#DBFFFF"/>
+</g>
+</g>
+<defs>
+<linearGradient id="paint0_linear_2_392" x1="27" y1="56" x2="67.2919" y2="89.4128" gradientUnits="userSpaceOnUse">
+<stop stop-color="#EBFFFF"/>
+<stop offset="1" stop-color="#3989AF"/>
+</linearGradient>
+<linearGradient id="paint1_linear_2_392" x1="78" y1="17" x2="123.441" y2="42.7212" gradientUnits="userSpaceOnUse">
+<stop stop-color="#EBFFFF"/>
+<stop offset="1" stop-color="#3989AF"/>
+</linearGradient>
+<linearGradient id="paint2_linear_2_392" x1="119" y1="69" x2="173.844" y2="119.855" gradientUnits="userSpaceOnUse">
+<stop stop-color="#EBFFFF"/>
+<stop offset="1" stop-color="#3989AF"/>
+</linearGradient>
+<linearGradient id="paint3_linear_2_392" x1="180" y1="36" x2="222.33" y2="71.4391" gradientUnits="userSpaceOnUse">
+<stop stop-color="#EBFFFF"/>
+<stop offset="1" stop-color="#3989AF"/>
+</linearGradient>
+<linearGradient id="paint4_linear_2_392" x1="65" y1="100" x2="102" y2="137" gradientUnits="userSpaceOnUse">
+<stop stop-color="#EBFFFF"/>
+<stop offset="1" stop-color="#3989AF"/>
+</linearGradient>
+<linearGradient id="paint5_linear_2_392" x1="173" y1="108" x2="206.945" y2="143.941" gradientUnits="userSpaceOnUse">
+<stop stop-color="#EBFFFF"/>
+<stop offset="1" stop-color="#3989AF"/>
+</linearGradient>
+</defs>
+</svg>

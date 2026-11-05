@@ -1,0 +1,37 @@
+<svg width="480" height="240" viewBox="0 0 480 240" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Arctic Jellyfish">
+<g id="tail">
+<g id="tail artwork">
+<path id="Vector" d="M238 91C194 72 171 128 132 107C93 86 74 85 43 105M235 114C190 140 160 99 126 130C92 161 75 161 44 144M233 135C196 162 167 136 139 158C111 180 91 189 65 170" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" stroke="#73C9E5"/>
+<path id="Vector_2" d="M227 124C179 104 170 161 130 151C90 141 78 126 39 139" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" stroke="#CFBFF2"/>
+</g>
+</g>
+<g id="body">
+<path id="Vector_3" d="M224 85C253 44 316 47 352 78C372 96 377.667 118.333 369 145C361.667 168.333 344 181.667 316 185C280 190 245 171 225 151C233.667 132.333 233.333 110.333 224 85Z" fill="url(#paint0_linear_2_207)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke="#B7F4FF"/>
+<path id="Vector_4" d="M234 88C259 61 300 57 331 78C345.667 87.3334 355 99.6667 359 115C330 93 287 95 253 113L234 88Z" fill="#E1F6FF"/>
+<path id="Vector_5" d="M230 86C261 107 269 150 231 153M260 65C289.333 97.6667 292.667 134.333 270 175M302 62C330 98.6667 333.667 139 313 183" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke="#B7EDF5"/>
+<path id="Vector_6" d="M225 86C236.333 98.6667 238 111 230 123C240.667 133.667 239 143.333 225 152" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" stroke="#EEFFFF"/>
+<path id="Vector_7" d="M338 122C340.761 122 343 119.314 343 116C343 112.686 340.761 110 338 110C335.239 110 333 112.686 333 116C333 119.314 335.239 122 338 122Z" fill="#416A91"/>
+<path id="Vector_8" d="M342 116C343.105 116 344 115.105 344 114C344 112.895 343.105 112 342 112C340.895 112 340 112.895 340 114C340 115.105 340.895 116 342 116Z" fill="white"/>
+<path id="Vector_9" d="M322 141C325.866 141 329 139.209 329 137C329 134.791 325.866 133 322 133C318.134 133 315 134.791 315 137C315 139.209 318.134 141 322 141Z" fill="#9CADD9"/>
+<path id="Vector_10" d="M345 136C349 138.667 353.333 137.667 358 133" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke="#517594"/>
+</g>
+<g id="flipper">
+<g id="flipper artwork">
+<path id="Vector_11" d="M285 153C266 166 238 186 216 177C206.667 168.333 195.333 169.333 182 180C210 201 254 194 286 173L285 153Z" fill="url(#paint1_linear_2_207)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke="#91D8E9"/>
+</g>
+</g>
+</g>
+<defs>
+<linearGradient id="paint0_linear_2_207" x1="224" y1="54.4791" x2="224" y2="185.809" gradientUnits="userSpaceOnUse">
+<stop stop-color="#EAF4FF"/>
+<stop offset="0.5" stop-color="#AEBDEB"/>
+<stop offset="1" stop-color="#579FC5"/>
+</linearGradient>
+<linearGradient id="paint1_linear_2_207" x1="182" y1="153" x2="182" y2="192.68" gradientUnits="userSpaceOnUse">
+<stop stop-color="#EAF4FF"/>
+<stop offset="0.5" stop-color="#AEBDEB"/>
+<stop offset="1" stop-color="#579FC5"/>
+</linearGradient>
+</defs>
+</svg>
